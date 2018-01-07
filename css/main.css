@@ -1,0 +1,81 @@
+body {
+  font-family: 'Spectral SC', serif;
+  /* background: url('https://wallpaperscraft.com/image/room_design_library_shelves_7910_2560x1440.jpg'); */
+  /* background-size: cover;
+  background-attachment: fixed; */
+    color:#1f1f14;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+#title {
+  height:300px;
+  background-color: #1f1f14;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color:white;
+}
+
+#b_i {
+  object-fit: cover;
+  max-width: 70%;
+  border-radius: 2em;
+  box-shadow: 7px 2px 20px 2px black;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.classh2 {
+  margin-top: 5%;
+}
+
+input {
+  padding-left: 10px;
+}
+
+.btn-primary {
+  background-color: black;
+  border-style:none;
+  margin-top:7%;
+
+}
+
+a:hover {
+  background-color: black;
+  border-style: none;
+}
+
+.item {
+  height:250px;
+  padding-top:20px;
+  border-bottom:1px solid gray;
+
+}
+.item .newimages {
+  width: 128px;
+  height: 200px;
+  float: right;
+}
+.searchdiv {
+  text-align: center;
+}
+
+
+#results {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* .col-sm-4 {
+  margin-bottom: 30px;
+  max-height: 100%;
+
+} */
+
+.abc {
+  font-size: 18px;
+}
